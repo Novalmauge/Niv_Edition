@@ -1,29 +1,12 @@
 site_name: Niv Edition
 
 theme: 
-  name: readthedocs
-  color_mode: dark
-
-  
+  name: dracula
+    
   font:
     text: Signika
     code: Roboto Mono
     
-  # Enable the dark mode and light mode toggle
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: amber
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: black
-      accent: amber
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
   # Enhance the navigation layout
   features:
     - navigation.tabs         # Creates top-level navigation tabs
