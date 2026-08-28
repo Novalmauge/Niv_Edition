@@ -1,0 +1,17 @@
+site_name: Niv Edition
+
+theme:
+  name: material
+  
+  # Optional: Add a dark mode toggle
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
