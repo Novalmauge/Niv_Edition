@@ -2,7 +2,38 @@ site_name: Niv Edition
 
 theme: 
   name: dracula
-  favicon: assets/favicon.ico
-  
+  favicon: assets/favicon.png
+
+nav:
+  - Home: index.md
+  - Welcome: welcome.md
+  - Variant Rules: 
+    - Combat:  variant-rules/combat.md
+    - Character Creation: variant-rules/character.md
+    - Inventory: variant-rules/inventory.md
+  - Classes: 
+    - Classes: classes/classes.md
+    - Sidekick Classes: classes/sidekick_class.md
+    - Prestige Classes: classes/prestige_class.md
+  - Feats: 
+    - General Feats: feats/general_feats.md
+    - Racial Feats: feats/racial_feats.md
+    - Origin Feats: feats/origin_feats.md
+    - Boons: feats/boon_feats.md
+  - Spells: 
+    - Spell Changes: spells/spell_changes.md
+    - Spell Lists: spells/spelllist.md
+    - Abjuration: spells/abjuration.md
+    - Conjuration: spells/conjuration.md
+    - Divination: spells/divination.md
+    - Enchantment: spells/enchantment.md
+    - Evocation: spells/evocation.md
+    - Illusion: spells/illusion.md
+    - Necromancy: spells/necromancy.md
+    - Transmutation: spells/transmutation.md
+  - Equipment: 
+    - Attunement Slots: equipment/attunement.md
+  - Playable Species: species.md
+
 extra_css:
  - stylesheets/custom.css

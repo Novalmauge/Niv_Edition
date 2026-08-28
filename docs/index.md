@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Welcome to the Niv Edition Compendium
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This repository houses all custom rules, classes, and spells for our D&D 5e campaign. If a rule here contradicts the core rulebooks, this document takes precedence.
 
-## Commands
+## Quick Links
+* [Variant Combat Rules](variant-rules/combat.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! warning "Playtesting Notice"
+    Many of these mechanics are in active playtesting. They may be re-balanced between sessions if unforeseen exploits arise.
