@@ -1,3 +1,13 @@
+site_name: Niv Edition
+
+theme:
+  name: material
+  
+  font:
+    text: Signika
+    code: Roboto Mono
+# ... the rest of your settings
+
 theme:
   name: material
   
