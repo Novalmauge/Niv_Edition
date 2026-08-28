@@ -2,6 +2,7 @@ site_name: Niv Edition
 
 theme: 
   name: dracula
+  favicon: assets/favicon.ico
   
-  extra_css:
-    - stylesheets/custom.css
+extra_css:
+ - stylesheets/custom.css
