@@ -1,17 +1,8 @@
 site_name: Niv Edition
 
 theme:
-  name: material
+  name: readthedocs
   
-  font:
-    text: Signika
-    code: Roboto Mono
-# ... the rest of your settings
-
-theme:
-  name: material
-  
-  # Set the typography to match your Foundry UI
   font:
     text: Signika
     code: Roboto Mono
@@ -37,6 +28,7 @@ theme:
     - navigation.sections     # Groups sidebar items into neat sections
     - navigation.top          # Adds a "Back to Top" button when scrolling
     - search.suggest          # Auto-suggests search terms
+    - toc.integrate           # MERGES the Table of Contents into the left sidebar
 
   extra_css:
     - stylesheets/custom.css
