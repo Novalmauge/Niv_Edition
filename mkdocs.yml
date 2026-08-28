@@ -1,7 +1,9 @@
 site_name: Niv Edition
 
-theme:
-  name: readthedocs
+theme: 
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true
   
   font:
     text: Signika
