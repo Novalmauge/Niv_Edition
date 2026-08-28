@@ -1,0 +1,19 @@
+/* Target the dark "slate" scheme */
+[data-md-color-scheme="slate"] {
+  /* Match your module's deep dark background */
+  --md-default-bg-color: #0d0d12;
+  
+  /* Apply your soft magical blue to primary text */
+  --md-primary-fg-color: #a0d8ef;
+  
+  /* Use your bronze/gold for accents and borders */
+  --md-accent-fg-color: rgba(255, 200, 100, 0.9);
+  --md-default-fg-color--light: rgba(255, 200, 100, 0.3);
+}
+
+/* Style the site title to mimic your Modesto UI title */
+.md-header__title {
+  font-family: "Palatino Linotype", serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
