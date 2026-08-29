@@ -17,3 +17,18 @@
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+/* Hide all default text, links, and elements inside the footer */
+footer * {
+    display: none !important;
+}
+
+/* Inject the custom copyright text */
+footer::after {
+    content: "Copyright \A9 2026 Niv Edition"; /* \A9 is the CSS code for the © symbol */
+    display: block;
+    text-align: center;
+    color: #a0d8ef;
+    padding: 20px 0;
+    font-size: 14px;
+}
