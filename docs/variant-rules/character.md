@@ -37,6 +37,7 @@ When creating a character, you must decide how you acquired your starting equipm
 * **Bonus Trinket:** Regardless of your choice above, every character begins with one item rolled randomly from the Gothic Trinkets table.
 
 This changes when you start at a level higher than 4th. 
+
 * **5th-8th level** = 500gp plus 1d10x25gp & Normal Starting Equipment
 * **9th-12th level** = 5000gp plus 1d10x250gp, two uncommon items, & Normal Starting Equipment
 * **13th-16th level** =12000gp  plus 1d10x250gp, two uncommon items, one rare item, & Normal Starting Equipment
