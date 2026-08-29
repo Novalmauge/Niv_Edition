@@ -4,14 +4,14 @@ site_url: https://Novalmauge.github.io/Niv_Edition/
 theme: 
   name: dracula
   favicon: assets/favicon.ico
-
 nav:
   - Home: index.md
-  - Welcome: welcome.md
+  - About the DM: about.md
   - Variant Rules: 
     - Character Creation: variant-rules/character.md
     - Combat:  variant-rules/combat.md
     - Inventory: variant-rules/inventory.md
+    - Attunement Slots: variant-rules/attunement.md
   - Classes: 
     - Classes: classes/classes.md
     - Sidekick Classes: classes/sidekick_class.md
@@ -32,9 +32,19 @@ nav:
     - Illusion: spells/illusion.md
     - Necromancy: spells/necromancy.md
     - Transmutation: spells/transmutation.md
-  - Equipment: 
-    - Attunement Slots: equipment/attunement.md
+  - Equipment & Items: 
+    - Bastions: equipment/bastions.md
   - Playable Species: species.md
+  - Campaign Info:
+    - Overview: campaign/overview.md
+    - The World of Halione: campaign/halione/halione.md
+    - Numana: campaign/numana/numana.md
+    - The World Dungeon: 
+      - Overview: campaign/world_dungeon/world_dungeon.md
+    - Beastlands: 
+      - Overview: campaign/beastlands/beastlands.md
+    - New Wightlaw: 
+      - Overview: campaign/new_wightlaw/new_wightlaw.md
 
 extra_css:
  - stylesheets/custom.css
