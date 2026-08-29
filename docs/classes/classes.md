@@ -36,4 +36,7 @@ The following classes have been reviewed and approved for this campaign.
 | **Warmage** | A spellcaster that has chosen to focus on the fundamentals and uses cantrips to the greatest effect | Intelligence | Mage Hand Press |
 | **Witch** | A spellcaster that specializes in familiars, hexes, and curses | Wisdom, Charisma | Mage Hand Press |
 | **Wizard** | A spellcaster that dedicates their lives to studying and understanding  spells | Intelligence | SRD |
+
+Classes with another listed in () just means they were changed due to another class having.
+
 Review the [Sidekick & Cohort Classes](sidekick_class.md) if you are managing a retainer.

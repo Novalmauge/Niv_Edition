@@ -4,6 +4,7 @@ This repository houses all custom rules, classes, and spells for our D&D 5e camp
 
 ## Quick Links
 * [Variant Combat Rules](variant-rules/combat.md)
+* [Classes](classes/classes.md)
 
 !!! warning "Playtesting Notice"
     Many of these mechanics are in active playtesting. They may be re-balanced between sessions if unforeseen exploits arise.
