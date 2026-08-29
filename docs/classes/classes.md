@@ -1,6 +1,6 @@
 # Classes
 
-The following classes have been reviewed and approved for this campaign.
+The following are base classes that have been reviewed and approved for this campaign. 
 
 | Class | Description | Primary Ability | Source |
 | :--- | :--- | :--- | :--- |
@@ -37,6 +37,7 @@ The following classes have been reviewed and approved for this campaign.
 | **Witch** | A spellcaster that specializes in familiars, hexes, and curses | Wisdom, Charisma | Mage Hand Press |
 | **Wizard** | A spellcaster that dedicates their lives to studying and understanding  spells | Intelligence | SRD |
 
-Classes with another listed in () just means they were changed due to another class having.
+Classes with () just means they were renamed due duplicates. The name in () is what you'll find it as under it's source material.
 
-Review the [Sidekick & Cohort Classes](sidekick_class.md) if you are managing a retainer.
+Review the [Sidekick & Cohort Classes](sidekick_class.md) if you are managing a retainer, sidekick, hireling, or cohort.
+Or explore [Prestige Classe](prestige_class.md) for classes that have more strict requirements and fewer levels to help hone in those character builds. 

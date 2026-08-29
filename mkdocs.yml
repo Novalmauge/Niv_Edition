@@ -3,14 +3,14 @@ site_url: https://Novalmauge.github.io/Niv_Edition/
 
 theme: 
   name: dracula
-  favicon: assets/favicon.png
+  favicon: assets/favicon.ico
 
 nav:
   - Home: index.md
   - Welcome: welcome.md
   - Variant Rules: 
-    - Combat:  variant-rules/combat.md
     - Character Creation: variant-rules/character.md
+    - Combat:  variant-rules/combat.md
     - Inventory: variant-rules/inventory.md
   - Classes: 
     - Classes: classes/classes.md
