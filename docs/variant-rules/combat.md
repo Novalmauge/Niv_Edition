@@ -6,7 +6,7 @@ We use a few variant rules to speed up encounters and reward tactical positionin
 
 There are some default actions that almost everyone can do. Here is a list with decriptions.
 
-Standard Action
+### Standard Action
 * **Casting a spell:** Characters with the spellcasting feature can choose to cast a spell.
 * **Attack (melee, unarmed, or ranged):** Anyone can choose to attack on their turn, martial classes often get to take multiple swings when they choose to attack.
 * **Use a consumable:** Most consumables have additional effects when used with an action, but can also be used as a bonus action.
@@ -15,18 +15,21 @@ Standard Action
 * **Dash:** Allows you to move your entire speed an additional time this round
 * **Disengage:** Allows you to move your entire speed without provoking an attack of opportunity
 
-Bonus Action
+### Bonus Action
 * **Use a class feature:**
 * **Use a consumable:**
 
-Interaction
+### Interaction
 * **Open a container or Door:**
 * **Unsheath a weapon:**
 
-Movement
+### Movement
 * **Shift:** A creature may choose to move shift 5-feet without provoking attacks of opportunity. This consumes all the movement on the turn and does not count as normal movement.
 * **Run:** If a creature forgo's it's standard and bonus action for the round, they move 4 times their movement speed in a straight line. They do however lose their dexterity bonus for any attacks of opportunity attacks that are provided during this action.
 * **Move:** Each creature may move up to it's speed per turn, using what ever appropriate movement type at the time.
+
+### Reaction
+* **Attack of Opportunity:** When a creature leaves an area threatened by another, it provokes an attack of opportunity which allows a single attack with a melee or armed attack.
 
 ## Potions as a Bonus Action
 * **Drinking a potion yourself:** You may use a Standard Action to gain the full amount from a potion, or a bonus action to roll for HP.
