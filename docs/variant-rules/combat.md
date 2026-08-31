@@ -15,20 +15,20 @@ There are some default actions that almost everyone can do. Here is a list with 
 * **Dash:** Allows you to move your entire speed an additional time this round
 * **Disengage:** Allows you to move your entire speed without provoking an attack of opportunity
 
-### Bonus Action
+#### Bonus Action
 * **Use a class feature:**
 * **Use a consumable:**
 
-### Interaction
+#### Interaction
 * **Open a container or Door:**
 * **Unsheath a weapon:**
 
-### Movement
+#### Movement
 * **Shift:** A creature may choose to move shift 5-feet without provoking attacks of opportunity. This consumes all the movement on the turn and does not count as normal movement.
 * **Run:** If a creature forgo's it's standard and bonus action for the round, they move 4 times their movement speed in a straight line. They do however lose their dexterity bonus for any attacks of opportunity attacks that are provided during this action.
 * **Move:** Each creature may move up to it's speed per turn, using what ever appropriate movement type at the time.
 
-### Reaction
+#### Reaction
 * **Attack of Opportunity:** When a creature leaves an area threatened by another, it provokes an attack of opportunity which allows a single attack with a melee or armed attack.
 
 ## Potions as a Bonus Action
