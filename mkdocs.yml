@@ -4,7 +4,7 @@ site_url: https://Novalmauge.github.io/Niv_Edition/
 theme: 
   name: dracula
   favicon: assets/favicon.ico
-  custom_dir: overrides
+
 nav:
   - Home: index.md
   - About the DM: about.md

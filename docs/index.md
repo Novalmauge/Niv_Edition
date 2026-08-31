@@ -3,7 +3,7 @@
 This repository houses all custom rules, classes, and spells for our D&D 5e campaign. If a rule here contradicts the core rulebooks, this document takes precedence.
 
 ## Quick Links
-* [Variant Combat Rules](variant-rules/combat.md)
+* [Character Creation Rules](variant-rules/combat.md)
 * [Classes](classes/classes.md)
 
 !!! warning "Playtesting Notice"

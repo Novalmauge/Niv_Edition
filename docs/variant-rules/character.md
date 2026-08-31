@@ -34,7 +34,6 @@ D&D is an ever evolving game in an effort to balance the game, I've reviewed and
 | Settings | Van Richten's Guide to Ravenloft | May 17th, 2021 |
 | Settings | Strixhaven: A Curriculum of Chaos | Dec 6th, 2021 |
 | Settings | Tal'Dorei Campaign Setting Reborn | Jan 17th, 2022 |
-| Settings | Tal'Dorei Campaign Setting Reborn | Jan 17th, 2022 |
 | Settings | Astral Adventurer's Guide | Aug 15th, 2022 |
 | Settings | Boo's Astral Menagerie | Aug 15th, 2022 |
 | Settings | Morte's Planar Parade | Oct 6th, 2023 |
@@ -93,14 +92,16 @@ D&D is an ever evolving game in an effort to balance the game, I've reviewed and
 | Organized Play | Adventurers League | Aug 25th, 2016 |
 | 3rd Party | Grim Hollow: The Monster Grimoire (2024) | Apr 30th, 2025 |
 
+* [L] represents legacy content
+
 * **Banned Content:** Currently there is nothing banned, and I don't tend to ban anything, but everything is subject to balancing.
 
 !!! info "DM's Thoughts: Curation Over Restriction"
-    Adjusting sources isn't about limiting your fun; it is about preserving the tone of the setting. By curating the list, we ensure every character feels mechanically grounded and narratively tied to the specific world we are playing in.
+    Adjusting sources isn't about limiting your fun; it is about preserving the tone of the setting.
 
 ## Ability Score Choices
 
-You may choose one of the following methods to generate your six ability scores. 
+You may choose one of the following methods to generate your six ability scores.
 
 | Generation Method | Details |
 | :--- | :--- |
@@ -117,11 +118,11 @@ You may choose one of the following methods to generate your six ability scores.
 
 When creating a character, you must decide how you acquired your starting equipment. Choose one of the following paths:
 
-* **Standard Issue:** Take the starting equipment packages granted by your class and background. 
+* **Standard Issue:** Take the starting equipment packages granted by your class and background. Note* you may sell items for 50% the value from this to gain some additional starter gold.
 * **Starting Wealth:** Forgo the equipment packages entirely and roll for starting gold based on your class table in the *Player's Handbook* (Chapter 5). You must purchase all weapons, armor, and packs from this pool.
 * **Bonus Trinket:** Regardless of your choice above, every character begins with one item rolled randomly from the Gothic Trinkets table.
 
-This changes when you start at a level higher than 4th. 
+This changes when you start at a level higher than 4th.
 
 * **5th-8th level** = 500gp plus 1d10x25gp & Normal Starting Equipment
 * **9th-12th level** = 5000gp plus 1d10x250gp, two uncommon items, & Normal Starting Equipment
